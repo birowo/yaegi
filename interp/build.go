@@ -158,6 +158,7 @@ var knownOs = map[string]bool{
 	"darwin":    true,
 	"dragonfly": true,
 	"freebsd":   true,
+	"illumos":   true,
 	"js":        true,
 	"linux":     true,
 	"nacl":      true,
